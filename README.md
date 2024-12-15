@@ -110,9 +110,9 @@
 
 ### Sneak Preview: Nuxt-Coolify  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+A Nuxt module for Coolify, it wraps the Coolify API and provides a set of server utilities for Nuxt and Nitro.
 <!-- BLOG-POST-LIST:END -->  
-
+[Read more](https://justserdar.dev/blog/nuxt-coolify-module)
 <br/>  
 
 <div align="center">

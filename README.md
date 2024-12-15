@@ -24,10 +24,24 @@
 Visit my freelance portfolio and service via places like [Contra](https://on.contra.com/CKgMRQ).
 I specialize in blending 3D visualization and full-stack development, focussing on iterative design and impactful solutions. My deep understanding of consumer behavior allows me to create engaging narratives that inspire action. I manage projects end-to-end, ensuring both technical precision and a human-centered approach. A one stop shop for immersive sales & experience automation at your service.
 
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/justserdar" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/darwebdb" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/serdaryerdelen" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>
+
+<br/>
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -47,8 +61,6 @@ I specialize in blending 3D visualization and full-stack development, focussing 
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -66,8 +78,6 @@ I specialize in blending 3D visualization and full-stack development, focussing 
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### DevOps  
 <div align="center">  
@@ -87,21 +97,6 @@ I specialize in blending 3D visualization and full-stack development, focussing 
 </div>
 
 </td></tr></table>  
-
-<br/>  
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/justserdar" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/darwebdb" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/serdaryerdelen" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>
 
 <br/>  
 

@@ -63,7 +63,6 @@ A detailed three part casestudy of the Ikea Kreativ Room Designer, exploring the
 
 ### Learn more on the foundry  
 <!-- BLOG-POST-LIST:START --> 
-![image](https://github.com/user-attachments/assets/93cd781f-011f-4b47-8755-c7af5040563d)
 <br/>
 You can find more articles and tutorials regarding Nuxt, Strapi, Coolify and more on my blog.
 <!-- BLOG-POST-LIST:END -->

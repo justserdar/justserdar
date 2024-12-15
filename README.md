@@ -71,13 +71,11 @@ You can find more articles and tutorials regarding Nuxt, Strapi, Coolify and mor
 [Read more](https://justserdar.dev/blog)
 
 
-## Nuxter Card
-
-[![justserdar Nuxter profile](https://nuxters.nuxt.com/card/justserdar/og.png)](https://nuxters.nuxt.com/justserdar)
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=justserdar&&style=flat-square" align="center" />
-</div>  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture> 
 
 <br/>  
 

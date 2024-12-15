@@ -133,20 +133,19 @@ You can find more articles and tutorials regarding Nuxt, Strapi, Coolify and mor
 
 [Read more](https://justserdar.dev/blog)
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=justserdar&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
 
 ## Nuxter Card
 
 [![justserdar Nuxter profile](https://nuxters.nuxt.com/card/justserdar/og.png)](https://nuxters.nuxt.com/justserdar)
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=justserdar&&style=flat-square" align="center" />
+</div>  
+
+<br/>  
+
+<div align="center"></div>
+<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

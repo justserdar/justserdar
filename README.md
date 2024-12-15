@@ -117,6 +117,14 @@ A Nuxt module for Coolify, it wraps the Coolify API and provides a set of server
 [Read more](https://justserdar.dev/blog/nuxt-coolify-module)
 <br/>  
 
+### Learn more on the foundry  
+<!-- BLOG-POST-LIST:START --> 
+<br/>
+You can find more articles and tutorials regarding Nuxt, Strapi, Coolify and more on my blog.
+<!-- BLOG-POST-LIST:END -->  
+[Read more](https://justserdar.dev/blog/)
+<br/>  
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=justserdar&&style=flat-square" align="center" />
 </div>  

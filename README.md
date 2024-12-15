@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Serdar, a full-time full-stack freelance developer 👨‍💻 including a multimedia specialist background 🚀 I specialized over the years in form based, 3D, XR and VR Configure, Price and Quote automated sales in Ecommerce.</div>  
+### <div align="center">I'm Serdar, a full-time full-stack freelance developer 👨‍💻 including a multimedia specialist background 🚀 I specialized over the years in form based, 3D, XR and VR Configure, Price and Quote automated sales solutions for Ecommerce.</div>  
   
 
 - 🔭 I’m currently working on [GLTransform](https://gltransform.com).  
@@ -20,6 +20,8 @@
 
 <br/>  
 
+## Portfolio  
+Visit my freelance portfolio and service via places like [Contra](https://on.contra.com/CKgMRQ).
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -103,8 +105,6 @@
   
 
 <br/>  
-
-
 
 ## Recent Blog Posts
 

@@ -111,6 +111,7 @@
 ### Sneak Preview: Nuxt-Coolify  
 <!-- BLOG-POST-LIST:START --> 
 ![image](https://github.com/user-attachments/assets/9d8cc8d8-2618-4209-bf50-d7ee87dae667)
+<br/>
 A Nuxt module for Coolify, it wraps the Coolify API and provides a set of server utilities for Nuxt and Nitro.
 <!-- BLOG-POST-LIST:END -->  
 [Read more](https://justserdar.dev/blog/nuxt-coolify-module)

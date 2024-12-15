@@ -115,8 +115,21 @@
 A Nuxt module for Coolify, it wraps the Coolify API and provides a set of server utilities for Nuxt and Nitro.
 <!-- BLOG-POST-LIST:END -->  
 <br/>
-[Read more](https://justserdar.dev/blog/nuxt-coolify-module)
+
+[Read more here](https://justserdar.dev/blog/nuxt-coolify-module)
+
 <br/>  
+
+### Breaking down Ikea's Innovative Room Planners 
+<!-- BLOG-POST-LIST:START --> 
+<br/>
+A detailed three part casestudy of the Ikea Kreativ Room Designer, exploring the fusion of technology and design in virtual space planning.
+<!-- BLOG-POST-LIST:END -->  
+<br/>  
+
+[Read more](https://justserdar.dev/blog/the-future-of-space-planners)
+
+<br/>
 
 ### Learn more on the foundry  
 <!-- BLOG-POST-LIST:START --> 

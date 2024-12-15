@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Coolify, CasaOS and ZimaOS.  
   
 
-- ❓ Ask me about anything related to design, developing, rapid prototyping and expanding your business with cool new ideas.  
+- ❓ Ask me about anything related to design, developing, rapid prototyping and expanding your business with cool new innovative ideas.  
   
 
 - ⚡ Fun fact: I love using Nuxt and Coolify, also not afraid getting my hands dirty using JavaScript and Python.  
@@ -89,7 +89,6 @@ Visit my freelance portfolio and service via places like [Contra](https://on.con
 
 <br/>  
 
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/justserdar" target="_blank">
@@ -101,8 +100,7 @@ Visit my freelance portfolio and service via places like [Contra](https://on.con
 <a href="https://linkedin.com/in/serdaryerdelen" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>
 
 <br/>  
 

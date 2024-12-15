@@ -119,7 +119,6 @@ A Nuxt module for Coolify, it wraps the Coolify API and provides a set of server
 <br/>
 A detailed three part casestudy of the Ikea Kreativ Room Designer, exploring the fusion of technology and design in virtual space planning.
 <!-- BLOG-POST-LIST:END -->  
-<br/>  
 
 [Read more](https://justserdar.dev/blog/the-future-of-space-planners)
 
@@ -127,14 +126,12 @@ A detailed three part casestudy of the Ikea Kreativ Room Designer, exploring the
 
 ### Learn more on the foundry  
 <!-- BLOG-POST-LIST:START --> 
+![image](https://github.com/user-attachments/assets/93cd781f-011f-4b47-8755-c7af5040563d)
 <br/>
 You can find more articles and tutorials regarding Nuxt, Strapi, Coolify and more on my blog.
-<!-- BLOG-POST-LIST:END -->  
-<br/>  
+<!-- BLOG-POST-LIST:END -->
 
 [Read more](https://justserdar.dev/blog)
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=justserdar&&style=flat-square" align="center" />

@@ -4,13 +4,10 @@
   
 
 ### <div align="center">I'm Serdar, a full-time full-stack freelance developer 👨‍💻 including a multimedia specialist background 🚀 I specialized over the years in form based, 2D, 3D, XR and VR Configure, Price and Quote automated sales solutions for Ecommerce.</div>  
-  
 
 - 🔭 I’m currently working on [GLTransform](https://gltransform.com).  
-  
 
 - 🌱 I’m currently learning Coolify, CasaOS and ZimaOS.  
-  
 
 - ❓ Ask me about anything related to design, developing, rapid prototyping and expanding your business with cool new innovative ideas.  
   

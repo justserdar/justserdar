@@ -143,5 +143,10 @@ You can find more articles and tutorials regarding Nuxt, Strapi, Coolify and mor
 <div align="center"></div>
 <br />
 
+## Nuxter Card
+
+[![justserdar Nuxter profile](https://nuxters.nuxt.com/card/justserdar/og.png)](https://nuxters.nuxt.com/justserdar)
+
+
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

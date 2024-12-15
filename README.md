@@ -114,7 +114,7 @@
 <br/>
 A Nuxt module for Coolify, it wraps the Coolify API and provides a set of server utilities for Nuxt and Nitro.
 <!-- BLOG-POST-LIST:END -->  
-<br/>
+
 [Read more here](https://justserdar.dev/blog/nuxt-coolify-module)
 
 <br/>  
